@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 test4.txt in master
+=======
+test4.txt in firtbranch
+>>>>>>> firtbranch
