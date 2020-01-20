@@ -1,5 +1,10 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 test4.txt in master
 =======
 test4.txt in firtbranch
+>>>>>>> firtbranch
+=======
+test4.txt in firtbranch
+edit fritbranch
 >>>>>>> firtbranch
